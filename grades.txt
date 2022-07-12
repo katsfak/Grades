@@ -1,0 +1,7 @@
+061125 ProgrI 6 dbI 7 mathI 5,5 end
+071234 dbII 5 ProgrC++ 4 PSD 4,5 ProgrJava 7 end
+051058 MathII 7 PSD 6 end
+081092 end
+071234 dbI 5,5 mathI 5,5 ProgrJava 5 end
+000000
+111111
